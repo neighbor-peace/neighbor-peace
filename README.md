@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @neighbor-peace
-- 👀 I’m interested in web development fundamentals.
+- 👋 Hi, I’m Michael!
+- 👀 I’m interested in software engineering fundamentals.
 - 🌱 I’m currently learning Javascript, CSS, and HTML through The Odin Project and CSX.
 - 📫 How to reach me: mcostello91@gmail.com or on discord GoodGoodMike#6183
 
