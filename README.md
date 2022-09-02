@@ -5,15 +5,18 @@
 - 📫 How to reach me: mcostello91@gmail.com
 
 # Repo Portfolio
-## Sign Up Form
-- [Repo](https://github.com/neighbor-peace/sign-up-form)
+##### Sign Up Form
 - [Demo](https://neighbor-peace.github.io/sign-up-form/)
-## Classic Tetris
-- [Repo](https://github.com/neighbor-peace/tetris)
+- [Repo](https://github.com/neighbor-peace/sign-up-form)
+##### Bootstrap Homepage Clone
+- [Demo](https://neighbor-peace.github.io/precourse-part-2/)
+- [Repo](https://github.com/neighbor-peace/precourse-part-2/tree/bootstrap)
+##### Classic Tetris
 - [Demo (Desktop Only)](https://neighbor-peace.github.io/tetris/)
-## On-screen Calculator
-- [Repo](https://github.com/neighbor-peace/calculator)
+- [Repo](https://github.com/neighbor-peace/tetris)
+##### On-screen Calculator
 - [Demo (Desktop Only)](https://neighbor-peace.github.io/calculator/)
+- [Repo](https://github.com/neighbor-peace/calculator)
 
 <!---
 neighbor-peace/neighbor-peace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
