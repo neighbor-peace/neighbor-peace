@@ -5,16 +5,16 @@
 - 📫 How to reach me: mcostello91@gmail.com
 
 # Repo Portfolio
-##### Sign Up Form
+#### Sign Up Form
 - [Demo](https://neighbor-peace.github.io/sign-up-form/)
 - [Repo](https://github.com/neighbor-peace/sign-up-form)
-##### Bootstrap Homepage Clone
+#### Bootstrap Homepage Clone
 - [Demo](https://neighbor-peace.github.io/precourse-part-2/)
 - [Repo](https://github.com/neighbor-peace/precourse-part-2/tree/bootstrap)
-##### Classic Tetris
+#### Classic Tetris
 - [Demo (Desktop Only)](https://neighbor-peace.github.io/tetris/)
 - [Repo](https://github.com/neighbor-peace/tetris)
-##### On-screen Calculator
+#### On-screen Calculator
 - [Demo (Desktop Only)](https://neighbor-peace.github.io/calculator/)
 - [Repo](https://github.com/neighbor-peace/calculator)
 
