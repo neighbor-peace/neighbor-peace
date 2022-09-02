@@ -10,7 +10,6 @@
 - [Repo](https://github.com/neighbor-peace/sign-up-form)
 #### Bootstrap Homepage Clone
 - [Demo](https://neighbor-peace.github.io/precourse-part-2/)
-- [Repo](https://github.com/neighbor-peace/precourse-part-2/tree/bootstrap)
 #### Classic Tetris
 - [Demo (Desktop Only)](https://neighbor-peace.github.io/tetris/)
 - [Repo](https://github.com/neighbor-peace/tetris)
