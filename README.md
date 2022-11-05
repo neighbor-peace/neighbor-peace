@@ -2,7 +2,6 @@
 - 👋 Hi, I’m Michael!
 - 👀 I’m interested in software engineering fundamentals.
 - 🌱 I’m currently enrolled in the Codesmith FTRI 12 Cohort.
-- 📫 How to reach me: mcostello91@gmail.com
 
 # Repo Portfolio
 #### Sign Up Form
