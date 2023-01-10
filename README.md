@@ -4,7 +4,7 @@
 🤝 Always open to collaborating with inclusive and diverse teams on open source tools\
 📚 Currently learning advanced design patterns and computing on the edge\
 💬 Ask me about dbSpy, an open source relational database visualization and management tool\
-⚡ Outside of engineering, I spend my time brewing, playing board games, and enjoying the great outdoors
+⚡ I also spend my time brewing, playing board games, and enjoying the great outdoors
 
 ## 🌐 Socials
 
